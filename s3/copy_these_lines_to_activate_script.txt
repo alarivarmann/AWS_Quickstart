@@ -1,0 +1,5 @@
+AWS_PROFILE="alarids"
+export AWS_PROFILE
+#PYTHONPATH="~/dev/start_aws/aws_base_setup"
+#export PYTHONPATH
+
